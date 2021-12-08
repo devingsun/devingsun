@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devingsun
-- 👀 I’m interested in Spring-Boot and ReactUI
+- 👀 I’m interested in Spring-Boot and SPA
 
 <!---
 devingsun/devingsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
